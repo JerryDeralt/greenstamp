@@ -1,0 +1,1387 @@
+{
+    "Slovakia": [
+        {
+            "documents": ["Service (Special) Passport"],
+            "normalizedDocuments": ["Service Passport*"],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Albania": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "North Korea": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs (Passport (for Official Trip))"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Bosnia and Herzegovina": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Serbia": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport Marked With 'Public Affairs'"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs*"],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Romania": [
+        {
+            "documents": ["Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Maldives": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport", "Travel Document of the PRC", "Temporary Travel Document and Emergency Passport (Certificate of Identity) of the Republic of Maldives"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport", "Travel Document of the PRC*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "San Marino": [
+        {
+            "documents": ["Valid Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Chile": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Ecuador": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs (Special Passport)", "Ordinary Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs*", "Ordinary Passport"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Pakistan": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Colombia": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Bolivia": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Uruguay": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "90 days"
+        }
+    ],
+
+    "Cuba": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "60 days"
+        }
+    ],
+
+    "Mongolia": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Iran": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Laos": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport With Valid Official Visas"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport*"],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Bangladesh": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs", "Ordinary Passport Marked With 'Governmental Affairs' Or 'Free of Charge'"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs", "Ordinary Passport*"],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Turkey": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Cyprus": [
+        {
+            "documents": ["Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Vietnam": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Hungary": [
+        {
+            "documents": ["Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Poland": [
+        {
+            "documents": ["Service Passport", "Seamen's Book", "Crew Member Certificates"],
+            "normalizedDocuments": ["Service Passport", "Seamen's Book*"],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Lithuania": [
+        {
+            "documents": ["Service Passport", "Seamen's Book (On Board)"],
+            "normalizedDocuments": ["Service Passport", "Seamen's Book*"],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Modolva": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport Marked With 'Public Affairs'", "Group Travel Document"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs*", "Group Travel Document"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Turkmenistan": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport Marked With 'Public Affairs'"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs*"],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Group Travel Document"],
+            "normalizedDocuments": [],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Belarus": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Group Travel Document"],
+            "normalizedDocuments": [],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days per 90 days"
+        }
+    ],
+
+    "Jordan": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Tajikistan": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport Marked With 'Public Affairs'"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Argentina": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Benin": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport Marked With 'Public Affairs Certificate'"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs*"],
+            "duration": "90 days"
+        }
+    ],
+
+    "Kazakhstan": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Ordinary Passport", "Passport for Public Affairs", "Travel Document of the PRC", "Certificates of Return to the Republic of Kazakhstan"],
+            "normalizedDocuments": ["Ordinary Passport", "Passport for Public Affairs", "Travel Document of the PRC*"],
+            
+            "duration": "30 days; 90 days per 180 days"
+        }
+    ],
+
+    "Georgia": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Group Travel Document"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days; 90 days per 180 days"
+        }
+    ],
+
+    "Azerbaijan": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Group Travel Document"],
+            "normalizedDocuments": [],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Slovenia": [
+        {
+            "documents": ["Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "North Macedonia": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "90 days"
+        }
+    ],
+
+    "Armenia": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport Marked With 'Public Affairs'"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs*"],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Croatia": [
+        {
+            "documents": ["Service (Official) Passport"],
+            "normalizedDocuments": ["Service Passport*"],
+            "duration": "90 days"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Jamaica": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Sudan": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Special Passport", "Official Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Special Passport"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Mexico": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "90 days"
+        }
+    ],
+
+    "Myanmar": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Guyana": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Russia": [
+        {
+            "documents": ["Group Travel Document"],
+            "normalizedDocuments": [],
+            "duration": "15 days"
+        },
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Seamen's Book (On Board)", "Travel Document of International Train Crew Members and International Flight Crew Members"],
+            "normalizedDocuments": ["Seamen's Book*"],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Ukraine": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Seamen's Book"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Kyrgyzstan": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Thailand": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days; 90 days per 180 days"
+        }
+    ],
+
+    "Peru": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Brazil": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Philippines": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport (only for temporary visitors)"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Valid Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Brunei": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "both of which shall be valid for at least 6 months"],
+            "normalizedDocuments": ["Diplomatic Passport*", "Service Passport*"],
+            "duration": "14 days"
+        }
+    ],
+
+    "Tanzania": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Indonesia": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Equatorial Guinea": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Special Service Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Cambodia": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Tunisia": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Nepal": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Trinidad and Tobago": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Egypt": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "United Kingdom": [
+        {
+            "documents": ["Diplomatic Passport", "Certain Service (Official) Passport", "Passport for Public Affairs (Ordinary Passport)"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs*", "Ordinary Passport*"],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Costa Rica": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Malta": [
+        {
+            "documents": ["Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Grenada": [
+        {
+            "documents": ["Diplomatic Passport", "Official Passport", "Valid Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Valid Passport"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Oman": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Uzbekistan": [
+        {
+            "documents": ["Diplomatic Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "South Africa": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Samoa": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs", "Ordinary Passport"],
+            "duration": "30 days; 90 days per 180 days"
+        }
+    ],
+
+    "Singapore": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs", "Ordinary Passport"],
+            "duration": "30 days; 90 days per 180 days"
+        }
+    ],
+
+    "Malaysia": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "United Arab Emirates": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special) Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs", "Ordinary Passport"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Bulgaria": [
+        {
+            "documents": ["Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days; 90 days per 180 days"
+        },
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Tonga": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs", "Ordinary Passport"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Montenegro": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "Unlimited"
+        },
+        {
+            "documents": ["Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "Unlimited"
+        }
+    ],
+
+    "Sri Lanka": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Seychelles": [
+        {
+            "documents": ["Valid Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Mauritius": [
+        {
+            "documents": ["Valid Passport"],
+            "normalizedDocuments": [],
+            "duration": "60 days"
+        }
+    ],
+
+    "Venezuela": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Nigeria": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "The Bahamas": [
+        {
+            "documents": ["Valid Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Morocco": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Special Passport"],
+            "normalizedDocuments": [],
+            "duration": "60 days"
+        }
+    ],
+
+    "Dominica": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs", "Ordinary Passport"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Senegal": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Suriname": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Barbados": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs", "Ordinary Passport"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Republic of the Congo": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Kenya": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Kuwait": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Zimbabwe": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "60 days"
+        }
+    ],
+
+    "Burundi": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Djibouti": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "South Korea": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Fiji": [
+        {
+            "documents": ["Valid Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Angola": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Eritrea": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "60 days"
+        }
+    ],
+
+    "Togo": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Mali": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Timor-Leste": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Cape Verde": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Afghanistan": [
+        {
+            "documents": ["Diplomatic Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Ireland": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "90 days"
+        },
+        {
+            "documents": ["EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Ethiopia": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Ivory Coast": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Israel": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Switzerland": [
+        {
+            "documents": ["Diplomatic Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Gabon": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Liberia": [
+        {
+            "documents": ["Diplomatic Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Comoros": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Austria": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Belgium": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Czech Republic": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Denmark": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Estonia": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Finland": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Germany": [
+        {
+            "documents": ["Diplomatic Passport", "Temporary Diplomatic Passport of Germany", "EU Laissez-Passer"],
+            "normalizedDocuments": ["Diplomatic Passport*", "EU Laissez-Passer"],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Greece": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Italy": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Latvia": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Luxembourg": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Netherlands": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Portugal": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Spain": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Sweden": [
+        {
+            "documents": ["Diplomatic Passport", "EU Laissez-Passer"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Mozambique": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Lesotho": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Iraq": [
+        {
+            "documents": ["Diplomatic Passport", "Special Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Iceland": [
+        {
+            "documents": ["Diplomatic Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Ghana": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Mauritania": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Cameroon": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Norway": [
+        {
+            "documents": ["Diplomatic Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Guinea": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Panama": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs", "Consular Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "São Tomé and Príncipe": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Special Service) Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Gambia": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Monaco": [
+        {
+            "documents": ["Diplomatic Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Bahrain": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs", "Special Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Burkina Faso": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Niger": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Qatar": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Special Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Botswana": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Official Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Rwanda": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Sierra Leone": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Algeria": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "South Sudan": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Special Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Papua New Guinea": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Chad": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Vanuatu": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Dominican Republic": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Nicaragua": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "El Salvador": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "90 days"
+        }
+    ],
+
+    "Solomon Islands": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        },
+        {
+            "documents": ["Ordinary Passport"],
+            "normalizedDocuments": [],
+            "duration": "90 days per 180 days"
+        }
+    ],
+
+    "Honduras": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs"],
+            "duration": "30 days"
+        }
+    ],
+
+    "Madagascar": [
+        {
+            "documents": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs of the PRC"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport", "Passport for Public Affairs*"],
+            "duration": "90 days"
+        }
+    ],
+
+    "Lebanon": [
+        {
+            "documents": ["Diplomatic Passport", "Special Passport", "Service Passport", "Passport for Public Affairs"],
+            "normalizedDocuments": [],
+            "duration": "90 days"
+        }
+    ],
+
+    "Palestine": [
+        {
+            "documents": ["Diplomatic Passport"],
+            "normalizedDocuments": [],
+            "duration": "30 days"
+        }
+    ],
+
+    "Antigua and Barbuda": [
+        {
+            "documents": ["Diplomatic Passport", "Service (Official) Passport", "Passport for Public Affairs", "Ordinary Passport"],
+            "normalizedDocuments": ["Diplomatic Passport", "Service Passport*", "Passport for Public Affairs", "Ordinary Passport"],
+            "duration": "30 days"
+        }
+    ]
+}

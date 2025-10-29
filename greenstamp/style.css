@@ -1,0 +1,271 @@
+*{
+  margin: 0;
+  padding: 0;
+  /*change the font*/
+  font-family: "Arial", sans-serif;
+  list-style: none;
+}
+body{
+  min-height: 100vh;
+  background-color: #ffffff;
+}
+/*color for links*/
+a, a:visited, a:hover, a:active{
+  color: rgb(21, 53, 194);
+  text-decoration: underline;
+}
+.policy strong a{
+  color: black;
+}
+h1 a, h1 a:visited, h1 a:hover, h1 a:active,
+h2 a, h2 a:visited, h2 a:hover, h2 a:active,
+h3 a, h3 a:visited, h3 a:hover, h3 a:active,
+strong a, strong a:visited, strong a:hover, strong a:active{
+  color: inherit;
+  text-decoration: underline;
+}
+placeholder, placeholder a, placeholder a:visited, placeholder a:hover, placeholder a:active{
+  color:rgb(17, 153, 67);
+  text-decoration: underline;
+}
+a.normal-link{
+  color: black;
+  text-decoration: underline;
+}
+
+.navbar{
+  display: flex;
+  top: 0; right: 0; left: 0;
+}
+
+nav{
+  width: 100%;
+  background-color: #388C57;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 1rem;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+nav .logo img {
+  width: 700px;
+  transition: background 0.3s ease;
+}
+@media (max-width: 796px) {
+  nav .logo img {
+    width: 100%;
+  }
+}
+
+.logo img:hover {
+  background: #2d6d44;
+}
+
+.nav-links{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+nav li{
+  height: 50px;
+}
+
+.nav-links a{
+  height: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  align-items: center;
+
+  color: #F5E9DF;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  font-family: 'Outfit', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+
+  transition: color 0.3s ease;
+  transition: background 0.3s ease;
+
+  position: relative; /*needed for positioning of underline effect*/
+}
+
+.nav-links a:hover{
+  color: #ffffff;
+  background: #2d6d44;
+}
+
+.nav-links a::after { /*underline effect*/
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 1px;
+  background-color: #ffffff;
+  transition: width 0.3s ease;
+}
+.nav-links a:hover::after,
+.nav-links a.active::after {
+  width: 100%;
+}
+
+
+/*-------------*/
+
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  background: transparent;
+  border: 2px solid #F5E9DF;
+  border-radius: 30px;
+  padding: 0.4rem 0.75rem;
+  margin-right: 1rem;
+}
+
+.search-bar input {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 0.9rem;
+  width: 160px;
+  color: #ddd;
+}
+
+.search-bar button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.search-bar img {
+  width: 18px;
+  height: 18px;
+  padding-right: 8px;
+}
+
+/* -------- */
+
+.controls {
+  width: 72px;
+  gap: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #A6C9F2;
+
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+.controls button{
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+#theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+  width: 36px;
+  background: #388C57;
+  border-radius: 30%;
+  transition: background 0.3s ease;
+}
+
+#theme-toggle:hover {
+  background: #2d6d44;
+}
+
+.controls img{
+  width: 24px;
+  height: 24px;
+}
+/*----------------NAVBAR SECTION OVER. THE BELOW STYLES ARE NO LONGER UNIVERSAL (not always present in all .html).-------------*/
+/*BELOW IS GENERAL STUFF*/
+
+strong{
+
+}
+
+i{
+  color:#609bdf;
+}
+
+label.agreement input:disabled + span {
+  color:gray;
+}
+
+h3, h2{
+  margin-block-start: 40px;
+  color:#2d6d44;
+}
+
+section{
+  background-color: rgb(248, 248, 248);
+  flex-basis: 468px;
+  flex-grow: 1;
+}
+
+.padding{
+  padding: 16px;
+}
+
+/*THE BELOW IS FOR INDEX.HTML*/
+
+.note{
+  font-size: 12px;
+  font-style: italic;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: horizontal;
+  flex-wrap: wrap;
+
+  margin-inline: 36px;
+  margin-block: 12px;
+  gap: 12px;
+}
+
+#recent-policy{
+  margin: 16px;
+}
+
+#calculator{
+  margin: 8px;
+  display: flex;
+  flex-direction: horizontal;
+  justify-content: center;
+}
+
+#calculator div{
+  margin: 8px;
+}
+
+#result{
+  margin: 16px;
+}
+
+#result .policy{
+  margin-block: 12px;
+  list-style: none;
+}
+
+#result .agreement{
+  margin-block: 8px;
+  list-style: none;
+}
+
+.policy-image {
+    float: right;
+    margin-inline-start: 20px;
+}

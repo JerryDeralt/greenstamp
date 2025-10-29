@@ -1,0 +1,337 @@
+[
+	{
+	"policyId": "2024112901",
+	"title": "Compilation of Visa-Free Policies (Article 1, Subarticle 1), 2024/11/29",
+	"duration": "30 days",
+	"description": "Business, tourism, visiting relatives and friends, exchange visits, or transit",
+	"policyLinks": ["https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["France", "Germany", "Italy", "Netherlands", "Spain", "Malaysia", "Switzerland", "Ireland", "Hungary", "Austria", "Belgium", "Luxembourg", "New Zealand", "Australia", "Poland", "Portugal", "Greece", "Cyprus", "Slovenia", "Slovakia", "Norway", "Finland", "Denmark", "Iceland", "Andorra", "Monaco", "Liechtenstein", "South Korea", "Brunei", "Bulgaria", "Romania", "Croatia", "Montenegro", "North Macedonia", "Malta", "Estonia", "Latvia", "Japan"],
+		"documents": ["Ordinary Passport"],
+		"ports": [],
+		"transitOnly": false
+		}
+	},
+
+	{
+	"policyId": "2024112901",
+	"title": "Compilation of Visa-Free Policies (Article 1, Subarticle 2), 2024/11/29",
+	"duration": "30 days",
+	"description": "Business, tourism, visiting relatives and friends, exchange visits, or transit. Policy valid until September 14, 2026",
+	"policyLinks": ["https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Russia"],
+		"documents": ["Ordinary Passport"],
+		"ports": [],
+		"transitOnly": false
+		}
+	},
+
+	{
+	"policyId": "202411290201",
+	"title": "Compilation of Visa-Free Policies (Article 2, Subarticle 1), 2024/11/29",
+	"duration": "30 days",
+	"description": "Single stay of no more than 30 days from the date of entry",
+	"policyLinks": ["https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Singapore"],
+		"documents": [],
+		"ports": [],
+		"transitOnly": false
+		}
+	},
+
+	{
+	"policyId": "202411290202",
+	"title": "Compilation of Visa-free Policies (Article 2, Subarticle 2), 2024/11/29",
+	"duration": "90 days (cumulative)",
+	"description": "Cumulative stay of no more than 90 days in every 180 days",
+	"policyLinks": ["https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Thailand", "Kazakhstan", "Antigua and Barbuda", "Georgia"],
+		"documents": [],
+		"ports": [],
+		"transitOnly": false
+		}
+	},
+
+	{
+	"policyId": "20190410",
+	"title": "Policy Interpretation on 24-hour Transit Visa Exemption for Foreigners, 2019/04/10",
+	"duration": "24 hours",
+	"description": "Foreigners can enjoy this exemption if they hold connecting tickets that travel through china on an international aircraft, ship or train, who do not leave the port of entry and remain in China for no more than 24 hours",
+	"policyLinks": ["https://www.nia.gov.cn/n741440/n741577/c759334/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": [],
+		"documents": [],
+		"ports": [],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111701",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 1), 2023/11/17",
+	"duration": "72 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Hunan",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Changsha Huanghua International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111702",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 2), 2023/11/17",
+	"duration": "72 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Harbin",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Harbin Taiping International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111703",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 3), 2023/11/17",
+	"duration": "72 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Guilin",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Guilin Liangjiang International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111704",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Beijing, Tianjin, and Hebei",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Beijing Capital International Airport", "Beijing Daxing International Airport", "Beijing West Railway Station", "Tianjin Binhai International Airport", "Tianjin Internationall Cruise Home Port", "Shijiazhuang Zhengding International Airport", "Qinhuangdao Port"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111705",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Shanghai, Jiangsu, Zhejiang",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Shanghai Hongqiao International Airport", "Shanghai Pudong International Airport", "Port of Shanghai", "Shanghai Railway Station", "Nanjing Lukou International Airport", "Hangzhou Xiaoshan International Airport", "Ningbo Lishe International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111706",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Guangdong",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Guangzhou Baiyun International Airport", "Shenzhen Baoan International Airport", "Jieyang Chaoshan International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111707",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Liaoning",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Shenyang Taoxian International Airport", "Dalian Zhoushuizi International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111708",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Shandong",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Qingdao Jiaodong International Airport", "Port of Qingdao"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111709",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Chongqing",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Chongqing Jiangbei International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111710",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Chengdu, Leshan, Deyang, Suining, Meishan, Yaan, Ziyang, Neijiang, Zigong, Luzhou, Yibin",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Chengdu Shuangliu International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111711",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Xi'an, Xianyang",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Xian Xianyang International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111712",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Xiamen",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Xiamen Gaoqi International Airport", "Port of Xiamen"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111713",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Wuhan",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Wuhan Tianhe International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "2023111714",
+	"title": "China's 72/144-hour Transit Visa-free Policy Extends to 54 Countries (Group 4), 2023/11/17",
+	"duration": "144 hours",
+	"description": "Engage in short-term activities, such as tourism, and temporary business visits, while remaining in Kunming",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1613010/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Monaco", "Russia", "United Kingdom", "Ireland", "Cyprus", "Bulgaria", "Romania", "Ukraine", "Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania", "Belarus", "Norway", "United States", "Canada", "Brazil", "Mexico", "Argentina", "Chile", "Australia", "New Zealand", "South Korea", "Japan", "Singapore", "Brunei", "United Arab Emirates", "Qatar"],
+		"documents": [],
+		"ports": ["Kunming Changshui International Airport"],
+		"transitOnly": true
+		}
+	},
+
+	{
+	"policyId": "20240730",
+	"title": "Hong Kong and Macau Tourist Groups Visiting Hainan Subject to 144 Hours of Visa Exemption Starting From July 30th",
+	"duration": "144 hours",
+	"description": "Tour Hainan with a tourist group legally registered in Hong Kong or Macau",
+	"policyLinks": ["https://www.nia.gov.cn/n897453/c1663153/content.html", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Afghanistan","United Arab Emirates","Oman","Azerbaijan","Pakistan","Palestine","Bahrain","Bhutan","North Korea","East Timor","Philippines","Georgia","Kazakhstan","South Korea","Kyrgyzstan","Cambodia","Qatar","Kuwait","Laos","Lebanon","Maldives","Malaysia","Mongolia","Bangladesh","Myanmar","Nepal","Japan","Saudi Arabia","Sri Lanka","Tajikistan","Thailand","Türkiye","Turkmenistan","Brunei","Uzbekistan","Singapore","Syria","Armenia","Yemen","Iraq","Iran","Israel","India","Indonesia","Jordan","Vietnam","Algeria","Egypt","Ethiopia","Angola","Benin","Botswana","Burkina Faso","Burundi","Equatorial Guinea","Togo","Eritrea","Cape Verde","Gambia","Republic of the Congo","Democratic Republic of the Congo","Djibouti","Guinea","Guinea-Bissau","Ghana","Gabon","Zimbabwe","Cameroon","Comoros","Côte d'Ivoire","Kenya","Lesotho","Liberia","Libya","Rwanda","Madagascar","Malawi","Mali","Mauritius","Mauritania","Morocco","Mozambique","Namibia","South Africa","South Sudan","Niger","Nigeria","Sierra Leone","Senegal","Seychelles","Sao Tome and Principe","Eswatini","Sudan","Somalia","Tanzania","Tunisia","Uganda","Zambia","Chad","Central African Republic","Albania","Ireland","Estonia","Andorra","Austria","Belarus","Bulgaria","North Macedonia","Belgium","Iceland","Bosnia and Herzegovina","Poland","Denmark","Germany","Russia","France","Vatican City","Finland","Netherlands","Montenegro","Czech Republic","Croatia","Latvia","Lithuania","Liechtenstein","Luxembourg","Romania","Malta","Moldova","Monaco","Norway","Portugal","Sweden","Switzerland","Serbia","Cyprus","San Marino","Slovakia","Slovenia","Ukraine","Spain","Greece","Hungary","Italy","United Kingdom","Antigua and Barbuda","Barbados","Bahamas","Panama","Belize","Dominican Republic","Dominica","Grenada","Costa Rica","Cuba","Haiti","Honduras","Canada","United States","Mexico","Nicaragua","El Salvador","Saint Kitts and Nevis","Saint Lucia","Saint Vincent and the Grenadines","Trinidad and Tobago","Guatemala","Jamaica","Argentina","Paraguay","Brazil","Peru","Bolivia","Ecuador","Colombia","Guyana","Suriname","Venezuela","Uruguay","Chile","Australia","Papua New Guinea","Fiji","Kiribati","Cook Islands","Marshall Islands","Federated States of Micronesia","Nauru","Niue","Palau","Samoa","Solomon Islands","Tonga","Tuvalu","Vanuatu","New Zealand"],
+		"documents": [],
+		"ports": [""],
+		"transitOnly": false
+		}
+	},
+
+	{
+	"policyId": "20231121",
+	"title": "Implementing a More Convenient Visa-Free Entry Policy",
+	"duration": "30 days",
+	"description": "Engage in travel and tourism in Hainan",
+	"policyLinks": ["https://www.hainan.gov.cn/hainan/5309/202311/58bf0483fde6462a8069ad1df780a966.shtml", "https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": ["Russia","United Kingdom","France","Germany","Norway","Ukraine","Italy","Austria","Finland","Netherlands","Denmark","Switzerland","Sweden","Spain","United States","Canada","Brazil","Mexico","Argentina","Chile","Australia","New Zealand","South Korea","Japan","Singapore","Malaysia","Thailand","Kazakhstan","Philippines","Indonesia","Belgium","Czech Republic","Estonia","Greece","Hungary","Iceland","Latvia","Lithuania","Luxembourg","Malta","Poland","Portugal","Slovakia","Slovenia","Ireland","Cyprus","Bulgaria","Romania","Serbia","Croatia","Bosnia and Herzegovina","Montenegro","North Macedonia","Albania","Brunei","United Arab Emirates","Qatar","Monaco","Belarus"],
+		"documents": [],
+		"ports": [""],
+		"transitOnly": false
+		}
+	},
+
+	{
+	"policyId": "2024112905",
+	"title": "Compilation of Visa-Free Policies (Article 5), 2024/11/29",
+	"duration": "Indefinite",
+	"description": "During the period for which the document is valid, Foreign Residence Permit holders are exempt from having to apply visas",
+	"policyLinks": ["https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": [],
+		"documents": ["Foreign Residence Permit"],
+		"ports": [],
+		"transitOnly": false
+		}
+	},
+
+	{
+	"policyId": "2024112906",
+	"title": "Compilation of Visa-Free Policies (Article 5), 2024/11/29",
+	"duration": "Indefinite",
+	"description": "During the period for which the document is valid, Foreign Permanent Resident ID Card holders are exempt from having to apply visas",
+	"policyLinks": ["https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": [],
+		"documents": ["Foreign Permanent Resident ID Card"],
+		"ports": [],
+		"transitOnly": false
+		}
+	},
+
+	{
+	"policyId": "2024112907",
+	"title": "Compilation of Visa-Free Policies (Article 5), 2024/11/29",
+	"duration": "Indefinite",
+	"description": "During the period for which the document is valid, APEC/Virtual APEC Business Travel Card holders are exempt from having to apply visas",
+	"policyLinks": ["https://bio.visaforchina.cn/EDI3_ZH/tongzhigonggao/302060942227804160.html"],
+	"appliesTo": {
+		"countries": [],
+		"documents": ["APEC Business Travel Card", "Virtual APEC Business Travel Card"],
+		"ports": [],
+		"transitOnly": false
+		}
+	}
+]
