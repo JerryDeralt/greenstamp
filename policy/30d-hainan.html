@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<script>
+			const base = window.location.hostname.includes("github.io") ? "/greenstamp" : "";
+			document.write(`<base href="${base}/">`);
+		</script>
+
+		<meta charset="utf-8" />
+		<title>30-Day Visa-free Policy for Foreign Nationals Entering Hainan | Greenstamp</title>
+		<meta name="viewport" content="width=device-width" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap">
+		<link rel="stylesheet" href="style.css">
+		
+		<link rel="icon" type="image/svg" href="images/favicon.svg" />
+	</head>
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-4S56YTRRT2"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-4S56YTRRT2');
+	</script>
+
+    <body>
+        <div id="navbar"></div>
+        
+        <div class="main-content">
+			<section class="padding">
+                <div id="policy-container"></div>
+        	</section>
+		</div>
+
+        <script src="js/load-policy.js"></script>
+        <script>
+            loadPolicy("30-Day Visa-free Policy for Foreign Nationals Entering Hainan");
+        </script>
+
+        <script src="js/navbar.js"></script>
+    </body>
