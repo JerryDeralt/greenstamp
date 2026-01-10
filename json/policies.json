@@ -2,14 +2,14 @@
 	{
 	"title": "30-Day Unilateral Visa-Free Policy",
 	"page": "policy/30d-unilateral.html",
-	"lastChecked": "2025/09/19",
+	"lastChecked": "2025/11/05",
 	"duration": "30 days",
 	"description": "Visiting China for business and trade, tourism, visiting family and friends, exchange and transit",
 	"policyLinks": [
 		{
 			"title": "List of Countries Covered by Unilateral Visa Exemption Policies",
 			"url": "https://en.nia.gov.cn/n147418/n147463/c183390/content.html",
-			"date": "2025/09/19"
+			"date": "2025/11/05"
 		},
 		{
 			"title": "<placeholder>China's Unilateral Visa-Free \"Circle of Friends\" Expands to 47 Countries</placeholder>",
@@ -28,7 +28,7 @@
 		}
 	],
 	"appliesTo": {
-		"countries": ["Andorra","Austria","Belgium","Bulgaria","Croatia","Cyprus","Denmark","Estonia","Finland","France","Germany","Greece","Hungary","Iceland","Ireland","Italy","Latvia","Liechtenstein","Luxembourg","Malta","Monaco","Montenegro","Netherlands","North Macedonia","Norway","Poland","Portugal","Romania","Russia","Slovakia","Slovenia","Spain","Switzerland","Australia","New Zealand","Bahrain","Brunei","Japan","Kuwait","Oman","Saudi Arabia","South Korea","Argentina","Brazil","Chile","Peru","Uruguay"],
+		"countries": ["Andorra","Austria","Belgium","Bulgaria","Croatia","Cyprus","Denmark","Estonia","Finland","France","Germany","Greece","Hungary","Iceland","Ireland","Italy","Latvia","Liechtenstein","Luxembourg","Malta","Monaco","Montenegro","Netherlands","North Macedonia","Norway","Poland","Portugal","Romania","Russia","Slovakia","Slovenia","Spain","Sweden","Switzerland","Australia","New Zealand","Bahrain","Brunei","Japan","Kuwait","Oman","Saudi Arabia","South Korea","Argentina","Brazil","Chile","Peru","Uruguay"],
 		"documents": ["Ordinary Passport"],
 		"ports": [],
 		"transitOnly": false
@@ -310,3 +310,4 @@
 		}
 	}
 ]
+
